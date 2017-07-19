@@ -1,0 +1,9 @@
+c:\users\shonen1561\documents\visual studio 2017\Projects\TwoDArrayApp\TwoDArrayApp\bin\Debug\netcoreapp1.1\TwoDArrayApp.deps.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\TwoDArrayApp\TwoDArrayApp\bin\Debug\netcoreapp1.1\TwoDArrayApp.runtimeconfig.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\TwoDArrayApp\TwoDArrayApp\bin\Debug\netcoreapp1.1\TwoDArrayApp.runtimeconfig.dev.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\TwoDArrayApp\TwoDArrayApp\bin\Debug\netcoreapp1.1\TwoDArrayApp.dll
+c:\users\shonen1561\documents\visual studio 2017\Projects\TwoDArrayApp\TwoDArrayApp\bin\Debug\netcoreapp1.1\TwoDArrayApp.pdb
+c:\users\shonen1561\documents\visual studio 2017\Projects\TwoDArrayApp\TwoDArrayApp\obj\Debug\netcoreapp1.1\TwoDArrayApp.csprojResolveAssemblyReference.cache
+c:\users\shonen1561\documents\visual studio 2017\Projects\TwoDArrayApp\TwoDArrayApp\obj\Debug\netcoreapp1.1\TwoDArrayApp.AssemblyInfo.cs
+c:\users\shonen1561\documents\visual studio 2017\Projects\TwoDArrayApp\TwoDArrayApp\obj\Debug\netcoreapp1.1\TwoDArrayApp.dll
+c:\users\shonen1561\documents\visual studio 2017\Projects\TwoDArrayApp\TwoDArrayApp\obj\Debug\netcoreapp1.1\TwoDArrayApp.pdb
